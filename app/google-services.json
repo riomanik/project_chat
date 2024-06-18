@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294592722647",
+    "project_id": "chat-project-riomanik",
+    "storage_bucket": "chat-project-riomanik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294592722647:android:6c70aca1395a45c23b6292",
+        "android_client_info": {
+          "package_name": "com.example.daily_project_1_chat_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294592722647-gr4q81tvucveibgst55p4ibp3hkgd0fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daily_project_1_chat_project",
+            "certificate_hash": "f80bbe11b55d6c3b0bc937dc98b3e0494e517f6f"
+          }
+        },
+        {
+          "client_id": "294592722647-56nbk3agtsh7iebedie8c8ijojvpui88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1TG6K5TG7r579Kyqct8yTy_YHgjK2154"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294592722647-56nbk3agtsh7iebedie8c8ijojvpui88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

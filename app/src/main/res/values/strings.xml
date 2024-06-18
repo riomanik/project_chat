@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">daily_project_1_chat_project</string>
+    <string name="google_app_id">YOUR_GOOGLE_APP_ID</string>
+    <string name="google_icon_description">Google icon</string>
+    <string name="continue_with_google_text">Continue with Google</string>
+    <string name="login_button_text">Log in</string>
+    <string name="chat_gpt_text">ChatGPT</string>
+    <string name="default_web_client_id">AIzaSyB1TG6K5TG7r579Kyqct8yTy_YHgjK2154
+</string>
+</resources>
